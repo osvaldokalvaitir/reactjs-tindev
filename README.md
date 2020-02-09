@@ -40,17 +40,17 @@ Aplicação Tindev usando Create React App, React Router, Axios e Socket.io cons
 
 ### Login
 
-![Login](/assets/login.png)
+![Login](/.github/assets/login.png)
 Esta é a primeira tela, para entrar o usuário terá que digitar o seu usuário do GitHub e clicar em 'Entrar'.
 
 ### Principal
 
-![Principal](/assets/main.png)
+![Principal](/.github/assets/main.png)
 É a tela onde estão todos os devs vindos da API, podendo dar like e dislike nos devs existentes.
 
 ### Match
 
-![Match](/assets/match.png)
+![Match](/.github/assets/match.png)
 Aparecerá a tela 'It's a match', quando tiver um encontro de likes entre dois devs.
 
 ## Desenvolvimento
