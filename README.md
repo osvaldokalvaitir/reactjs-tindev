@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação Tindev usando Create React App, React Router, Axios e Socket.io consumindo os recursos da API do [Node - Tindev](https://github.com/osvaldokalvaitir/node-tindev).
+Aplicação Tindev usando Create React App, React Router, Axios e Socket.io consumindo os recursos da API do [Node.js - Tindev](https://github.com/osvaldokalvaitir/nodejs-tindev).
 
 ## Índice
 
@@ -81,7 +81,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- **[Node - Tindev](https://github.com/osvaldokalvaitir/node-tindev)**
+- **[Node.js - Tindev](https://github.com/osvaldokalvaitir/nodejs-tindev)**
 
   - **Rotas**
 
