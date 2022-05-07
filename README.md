@@ -1,93 +1,63 @@
-# ReactJS - Tindev
+<h1 align="center">
+    <img src="/.github/assets/logo.svg"
+    width="400px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-tindev/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-tindev.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-tindev.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-tindev.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-tindev.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-tindev.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-tindev.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Tindev
+</h3>
 
-Aplicação Tindev usando Create React App, React Router, Axios e Socket.io consumindo os recursos da API do [Node.js - Tindev](https://github.com/osvaldokalvaitir/nodejs-tindev).
+<p align="center">
+  :man_technologist: Tindev Application using React Native, Axios, React Navigation, React Native Async Storage, Socket.io and react-native-reanimated consuming the features of the Node.js - Tindev API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-tindev.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-tindev.svg?color=00A83A">
 
-  - [Login](#login)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Principal](#principal)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Match](#match)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-- [Desenvolvimento](#desenvolvimento)
+## :computer: Demo
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+![Demo](/.github/assets/demo.gif)
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :wrench: Install and run
 
-  - [Execução do Projeto](#execução-do-projeto)
-  
-- [Utilizados no Projeto](#utilizados-no-projeto)
+_ps: Before running the app, start the [Node.js - Tindev](https://github.com/osvaldokalvaitir/nodejs-tindev) backend._
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-  - [APIs](#apis)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-tindev
 
-## Capturas de Tela
+# Entry in folder
+cd reactjs-tindev
 
-### Login
+# Install deps with npm or yarn
+npm install | yarn
 
-![Login](/.github/assets/login.png)
-Esta é a primeira tela, para entrar o usuário terá que digitar o seu usuário do GitHub e clicar em 'Entrar'.
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-### Principal
+## :memo: License
 
-![Principal](/.github/assets/main.png)
-É a tela onde estão todos os devs vindos da API, podendo dar like e dislike nos devs existentes.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-### Match
+---
 
-![Match](/.github/assets/match.png)
-Aparecerá a tela 'It's a match', quando tiver um encontro de likes entre dois devs.
-
-## Desenvolvimento
-
-### Configuração do Ambiente
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
-
-### Instalação do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
-
-- [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
-
-### APIs
-
-- **[Node.js - Tindev](https://github.com/osvaldokalvaitir/nodejs-tindev)**
-
-  - **Rotas**
-
-    - Devs
-
-      - Adiciona novos devs
-      - Lista todos os devs que não seja ele mesmo, não esteja nos likes e nos dislikes
-      - Likes nos devs
-      - Dislikes nos devs
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
