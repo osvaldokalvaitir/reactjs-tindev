@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :man_technologist: Tindev Application using React Native, Axios, React Navigation, React Native Async Storage, Socket.io and react-native-reanimated consuming the features of the Node.js - Tindev API
+  :man_technologist: Tindev Application using Create React App, React Router, Axios, Socket.io and consuming the features of the Node.js - Tindev API
 </p>
 
 <p align="center">
